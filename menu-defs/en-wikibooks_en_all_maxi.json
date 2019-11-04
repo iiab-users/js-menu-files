@@ -3,9 +3,14 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikibooks_en_all_maxi",
+  "start_url": "",
   "title": "Wikibooks",
   "logo_url": "en-wikibooks.png",
   "description": "Open books for an open world: e-book textbooks from Wikipedia, that anyone can edit.",
+  "extra_description": "added locally",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##"
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-11-04"
 }
