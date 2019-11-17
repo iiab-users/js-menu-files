@@ -1,0 +1,17 @@
+{
+  "name": "en-wiktionary_en_simple_all_novid",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wiktionary_en_simple_all_novid",
+  "title": "Wiktionary in Simple English",
+  "logo_url": "220px-Wiktionary-logo.svg.png",
+  "description": "Simple English dictionary from Wikipedia, for children and non-native speakers.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "32f1c76035fb45e3f5f7f096d22ad60dd8bb1693",
+  "change_ref": "copy from repo",
+  "change_date": "2019-11-17"
+}
