@@ -1,0 +1,15 @@
+{
+  "name": "ar-wikipedia_ar_medicine_novid",
+  "lang": "ar",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_ar_medicine_novid",
+  "title": "وِيكيبيديا الطبية",
+  "logo_url": "ar-medwiki.png",
+  "description": "مَقالات عن الرعاية الصحية متوافرة بدون اتصال بالإنترنت في كل مكان وبشكل مجاني",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "d191adae8ab0433726f570b8296ada83fee267a6",
+  "change_ref": "copy from repo",
+  "change_date": "2019-11-17"
+}
