@@ -1,0 +1,17 @@
+{
+  "name": "en-westeros_en_all_nopic",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "westeros_en_all_nopic",
+  "start_url": "",
+  "title": "A Wiki of Ice and Fire",
+  "logo_url": "content.jpg",
+  "description": "From A Wiki of Ice and Fire",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-11-30"
+}
