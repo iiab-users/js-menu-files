@@ -1,0 +1,17 @@
+{
+  "name": "en-wikiwel_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikiwel_en_all_maxi",
+  "start_url": "",
+  "title": "Wikiwel",
+  "logo_url": "content.jpg",
+  "description": "From Wikiwel",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-02"
+}
