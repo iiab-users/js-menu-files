@@ -1,0 +1,16 @@
+{
+  "name": "zz-emule",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "zz-emule",
+  "start_url": "",
+  "title": "eMule (alpha)",
+  "logo_url": "zz-emule_emule.png",
+  "description": "An alpha release of eMule",
+  "extra_description": "",
+  "footnote": "Size: 5.72M, Files: 5, Age: adult",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-04"
+}
