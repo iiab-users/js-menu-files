@@ -1,0 +1,17 @@
+{
+  "name": "en-installgentoo_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "installgentoo_en_all_maxi",
+  "start_url": "",
+  "title": "InstallGentoo Wiki",
+  "logo_url": "content.jpg",
+  "description": "From InstallGentoo Wiki",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-04"
+}
