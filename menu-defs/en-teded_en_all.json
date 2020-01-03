@@ -1,0 +1,18 @@
+{
+  "name": "en-teded_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "teded_en_all",
+  "start_url": "",
+  "title": "Uploads from TED Ed",
+  "logo_url": "",
+  "description": "Uploads from TED Ed videos",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "9b20793cbf8a906e8c668756347ab15c2cebc59d",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
