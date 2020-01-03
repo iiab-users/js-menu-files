@@ -1,0 +1,18 @@
+{
+  "name": "en-wikipedia_en_history_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_history_maxi",
+  "start_url": "",
+  "title": "History by Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of Wikipedia articles on History",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "a90634a6496e3214abc274f5a4f8bee05b4ebc74",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
