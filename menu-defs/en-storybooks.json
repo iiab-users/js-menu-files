@@ -1,0 +1,17 @@
+{
+  "name": "en-storybooks",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-storybooks",
+  "title": "English Storybooks",
+  "logo_url": "en-storybooks_logo.jpg",
+  "description": "A collection of storybooks in English from several sources.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 1.63G, Files: 496, Age: children",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "feddb4c75493febf6506aa1eba86be7518fdb707",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
