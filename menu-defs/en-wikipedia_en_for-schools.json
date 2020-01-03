@@ -1,0 +1,18 @@
+{
+  "name": "en-wikipedia_en_for-schools",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_for-schools",
+  "start_url": "",
+  "title": "Wikipedia for Schools",
+  "logo_url": "en-wikipedia_for_schools.jpg",
+  "description": "Welcome to Wikipedia for Schools! This selection of articles from Wikipedia matches the UK National Curriculum and can be used by school children around the world. 6000 articles, 26 million words and 50,000 images make Wikipedia for Schools bigger than Harry Potter, the Lord of the Rings and the Chronicles of Narnia put together! ",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "3e495eadcf1fcf84fe156418824f6de90bc2be57",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
