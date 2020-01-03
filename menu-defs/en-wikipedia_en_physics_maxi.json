@@ -1,0 +1,18 @@
+{
+  "name": "en-wikipedia_en_physics_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_physics_maxi",
+  "start_url": "",
+  "title": "Physics by Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of Wikipedia articles on physics",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "cbd9beeb4eadd33d8f0b760071f42c4b0a896532",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
