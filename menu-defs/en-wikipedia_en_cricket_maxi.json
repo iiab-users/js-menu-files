@@ -1,0 +1,18 @@
+{
+  "name": "en-wikipedia_en_cricket_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_cricket_maxi",
+  "start_url": "",
+  "title": "Cricket by Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of Wikipedia articles on cricket",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "6e0eb30ec5abfc0ac21cc881a026a7b088f6241a",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
