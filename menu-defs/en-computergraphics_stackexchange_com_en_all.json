@@ -1,0 +1,18 @@
+{
+  "name": "en-computergraphics_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "computergraphics.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Computer Graphics Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for computer graphics researchers and programmers",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "90e4c6f4236c98c00bf51d80ef61aef2f171317c",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
