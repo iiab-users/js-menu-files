@@ -1,0 +1,18 @@
+{
+  "name": "en-siyavula",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-siyavula",
+  "start_url": "",
+  "title": "Siyavula",
+  "logo_url": "en-siyavula_logo.jpeg",
+  "description": "Mathematics and Physical Science Textbooks & Teacher's Guides (grades 10-12)",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 967M, Files: 75, Age: young adult",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "aa86596630c08c35cc0e309a52053600caceeaee",
+  "change_ref": "copy from repo",
+  "change_date": "2020-01-02"
+}
